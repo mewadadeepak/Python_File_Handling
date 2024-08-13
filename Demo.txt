@@ -1,0 +1,2 @@
+Hello, welcome to Demo.txt.
+this file used to understand to file handling.Now the file has more content!
